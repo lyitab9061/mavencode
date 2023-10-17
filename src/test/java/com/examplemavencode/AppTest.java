@@ -32,7 +32,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithFalse()
     {
-        assertFalse( false );
+        assertFalse commit ( false );
     }
    
 }
