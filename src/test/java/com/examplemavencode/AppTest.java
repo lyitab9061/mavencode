@@ -10,6 +10,10 @@ import org.junit.Test;
 /**
  * Unit test for simple App modify.
  */
+/**
+ * Unit test for simple App modify.
+ * This is done to test Branching, I added this line here. Currently on New-Branch1
+ */
 public class AppTest 
 {
     /**
